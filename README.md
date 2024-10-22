@@ -1,4 +1,4 @@
 # Demo
 This is a demo repository.
 <br>
-Author - Kumar Siddharth
+Author - Kumar Siddharth (Trustt)
